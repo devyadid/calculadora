@@ -1,7 +1,7 @@
 # Calculadora Científica
 
 ## Descripción
-Una calculadora científica moderna y funcional desarrollada con HTML, CSS y JavaScript. Incluye operaciones matemáticas avanzadas como funciones trigonométricas, logaritmos, exponenciales y más.
+Calculadora científica moderna y funcional desarrollada con HTML, CSS y JavaScript. Incluye operaciones matemáticas avanzadas como funciones trigonométricas, logaritmos, exponenciales y más.
 
 ## Autor
 **Yadid Acero**
