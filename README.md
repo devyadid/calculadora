@@ -10,7 +10,7 @@ Calculadora científica moderna y funcional desarrollada con HTML, CSS y JavaScr
 * [Codepen](https://codepen.io/devyadid)
 
 ## Ver el ejemplo en vivo
-- [https://devyadid.github.io/calculadora-cientifica](https://devyadid.github.io/calculadora-cientifica)
+- [https://devyadid.github.io/calculadora](https://devyadid.github.io/calculadora)
 
 <a title="Yadid Portfolio Cover" href="https://devyadid.github.io/blog"><img src="https://raw.githubusercontent.com/devyadid/calculadora/refs/heads/main/assets/Calculadora.png" alt="Blog Programacion Cover"  target="_blank" /></a>
 
